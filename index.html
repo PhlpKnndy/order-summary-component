@@ -22,11 +22,12 @@
     <title>Frontend Mentor | Order summary card</title>
   </head>
   <body>
-    <main class="os-card">
+    <div class="os-card">
       <img
         class="os-img"
         src="images/illustration-hero.svg"
-        alt="A person listening & dancing to music while wearing headphones and holding their mobile phone in one hand"
+        alt=""
+        aria-hidden="“true”"
       />
       <h1 class="os-heading">Order Summary</h1>
       <p class="os-info">
@@ -42,12 +43,12 @@
           <p class="os-plan-price">$59.99/year</p>
         </div>
         <div>
-          <button class="os-plan-change-btn">Change</button>
+          <a class="os-plan-change-btn">Change</a>
         </div>
       </div>
       <button class="os-payment-btn">Proceed to Payment</button>
-      <button class="os-cancel-btn">Cancel Order</button>
-    </main>
+      <a class="os-cancel-btn">Cancel Order</a>
+    </div>
     <footer class="attribution">
       <p>
         Challenge by
