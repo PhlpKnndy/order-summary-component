@@ -32,9 +32,9 @@ The users should be able to:
 
 ### Links
 
-- **Solution URL -** [Frontend Mentor Solution](#)
+- **Solution URL -** [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/order-summary-component-CTEyI1W8ux)
 
-- **Live Site URL -** [Live Site Preview (Vercel)](#)
+- **Live Site URL -** [Live Site Preview (Vercel)](https://order-summary-component-phlpknndy.vercel.app/)
 
 ## My Process
 
